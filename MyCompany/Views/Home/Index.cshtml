@@ -1,0 +1,10 @@
+﻿@using MyCompany.Domain.Entities
+@model TextField
+@{ 
+    ViewBag.Title = Model.MetaTable;
+    ViewBag.MetaDescription = Model.MetaDescription;
+    ViewBag.Keywords = Model.MetaKeywords;
+}
+<div>
+    @Html.Raw(Model.Text)
+</div>
