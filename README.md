@@ -1,1 +1,1 @@
-A ebsite created with ASP.NET Core technology
+A website created with ASP.NET Core technology
