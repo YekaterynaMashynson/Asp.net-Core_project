@@ -10,5 +10,5 @@
 * SASS=>css
 * MS SQL Server 
 * Visual Studio
-### Admin panel
+### Admin panel 
 * The website contains protected Admin panel which allows, after autorizaton making changes using CKEditor
