@@ -1,6 +1,6 @@
 #  ASP.NET Application 
 
-## An example of web-application on the topic “Recommendations for c# learning”
+## An example of web application on the topic “Recommendations for c# learning”
 
 ### Tools and technologies: 
 * ASP.NET Core MVC 3.1 application
