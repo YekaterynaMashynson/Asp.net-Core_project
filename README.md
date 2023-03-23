@@ -1,4 +1,4 @@
-#  ASP.NET Application 
+#  ASP.NET Core Application 
 
 ## An example of web application on the topic “Recommendations for c# learning”
 
